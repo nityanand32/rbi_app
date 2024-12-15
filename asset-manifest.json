@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rbi_app/static/css/main.e6c13ad2.css",
-    "main.js": "/rbi_app/static/js/main.950fd355.js",
+    "main.js": "/rbi_app/static/js/main.1bbacf34.js",
     "static/js/488.3158f328.chunk.js": "/rbi_app/static/js/488.3158f328.chunk.js",
     "index.html": "/rbi_app/index.html",
     "main.e6c13ad2.css.map": "/rbi_app/static/css/main.e6c13ad2.css.map",
-    "main.950fd355.js.map": "/rbi_app/static/js/main.950fd355.js.map",
+    "main.1bbacf34.js.map": "/rbi_app/static/js/main.1bbacf34.js.map",
     "488.3158f328.chunk.js.map": "/rbi_app/static/js/488.3158f328.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.950fd355.js"
+    "static/js/main.1bbacf34.js"
   ]
 }
