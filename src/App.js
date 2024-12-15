@@ -1,5 +1,5 @@
 import React from "react";
-import PopulationChart from "./PopulationChart";
+import PopulationChart from "./PopulationChart.js";
 
 function App() {
   return (
